@@ -1,0 +1,63 @@
+.section-search input{
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-4x{
+  margin: 5px 10px;
+}
+
+@media (max-width: 1105px){
+  .media{
+    font-size: 14.2px;
+  }
+}
+
+@media (max-width: 1090px){
+  .media{
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 1035px){
+  .media{
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 733px){
+  .media{
+    font-size: 9.9px;
+  }
+}
+
+@media (max-width: 727px){
+  .media{
+    font-size: 9px;
+  }
+}
+
+@media (max-width: 691px){
+  .media{
+    font-size: 8px;
+  }
+}
+
+@media (max-width: 648px){
+  .media{
+    font-size: 7px;
+  }
+}
+
+@media (max-width: 604px){
+  .media{
+    font-size: 6px;
+  }
+}
+
+@media (max-width:420px){
+
+}
+
